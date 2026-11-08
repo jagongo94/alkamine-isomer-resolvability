@@ -1,0 +1,15 @@
+panel	bin_label	low_cosine	compound_a	compound_b	target_cosine
+b	extremely similar (Tanimoto > 0.9)	0	Serine_Glyceraldehyde-3-phosphate	Phosphoserine_Glyceraldehyde	
+b	extremely similar (Tanimoto > 0.9)	0	Putrescine_Hexadecanal	diaminopropane_Heptadecanal	
+c	very highly similar (0.8-0.9)	0	alpha-Methylalanine_12-oxo-glyco	GABA_12-oxo-glyco	
+c	very highly similar (0.8-0.9)	0	Butyraldehyde_5-ASA	Butyraldehyde_5-Aminosalicylic	0.94
+d	highly similar (0.6-0.8)	0	Isoleucine_Pregnanolone	Leucine_Pregnanolone	
+d	highly similar (0.6-0.8)	0	2-Hydroxypropanal_Isoniazid	hydroxyacetone_Isoniazid	
+e	similar (0.4-0.6)	0	5-ASA_Pregnanolone	Epinephrine_dehydroepiandrosterone	
+e	similar (0.4-0.6)	0	Glyceraldehyde_5-ASA	Dihydroxyacetone_5-ASA	
+f	moderately similar (0.2-0.4)	0	Amphetamine_p-Anisaldehyde	Tyramine_3-phenylpropionaldehyde	
+f	moderately similar (0.2-0.4)	0	Tyrosine_hydroxyacetone	Epinephrine_pyruvaldehyde	
+g1	same-formula partner with cosine < 0.8	1	amoxicillin_p-Anisaldehyde	Ampicillin_vanillin	
+g1	same-formula partner with cosine < 0.8	1	Epinephrine_Pregnanolone	Aminophenol_C24-Cholaldehyde	
+g2	same-formula partner with cosine < 0.8	1	phentermine_2-Hydroxypropanal	phentermine_hydroxyacetone	0.53
+g2	same-formula partner with cosine < 0.8	1	6-aminocaproic acid_C24-Cholaldehyde	Leucine_C24-Cholaldehyde	
